@@ -1,2 +1,2 @@
 # Radiology-Associates-Website
-Sample code from updating the website
+Sample code from updating this company's website
